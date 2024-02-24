@@ -1,3 +1,4 @@
+Hi i'm Alejandro
 - 👋 Hi, I’m @AlejandroBast
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning 
