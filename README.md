@@ -1,7 +1,8 @@
 
  # **Hi i'm Alejandro**
 
-![images](https://github.com/AlejandroBast/AlejandroBast/assets/161093543/8f8709cf-9c3f-4736-88c4-1f4b1788a935)
+![Banner](https://github.com/AlejandroBast/AlejandroBast/assets/161093543/29e72771-0445-430a-9d72-e0041180cd29)
+
 
 
 - 👀 I’m interested in IA
