@@ -1,4 +1,4 @@
-Hi i'm Alejandro
+###**Hi i'm Alejandro
 
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning 
