@@ -4,7 +4,6 @@
   <h1> <strong>Hi i'm Alejandro Bast</strong></h1> <!-- texto centrado -->
 </div>
 
-<img src="https://github.com/AlejandroBast/AlejandroBast/assets/161093543/d7288e7e-8981-48aa-9655-ef71f62c4aaa" width="100%"> <!-- linea de color -->
 
 ![Banner (1)](https://github.com/AlejandroBast/AlejandroBast/assets/161093543/2478cddd-5d2c-449e-b3ae-cabcab8889ea) <p  align="center"> <!-- Baner -->
 
