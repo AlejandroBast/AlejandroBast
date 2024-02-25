@@ -1,7 +1,8 @@
 
  # **Hi i'm Alejandro**
 
-![Banner](https://github.com/AlejandroBast/AlejandroBast/assets/161093543/29e72771-0445-430a-9d72-e0041180cd29)
+
+![Banner (1)](https://github.com/AlejandroBast/AlejandroBast/assets/161093543/2478cddd-5d2c-449e-b3ae-cabcab8889ea)
 
 
 
