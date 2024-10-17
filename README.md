@@ -1,18 +1,25 @@
-<img src="https://github.com/AlejandroBast/AlejandroBast/assets/161093543/c717afe9-9ca6-4a6b-b112-846b890216f9" width="100%"> <!-- linea de color -->
+<!-- Línea de color -->
+<img src="https://github.com/AlejandroBast/AlejandroBast/assets/161093543/c717afe9-9ca6-4a6b-b112-846b890216f9" width="100%" alt="Línea de color">
 
+<!-- Título centrado con emojis animados -->
 <div align="center">
-  <h1><strong> <img src="https://cdn3.emoji.gg/emojis/bongocat.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 270px; height: 50px; margin: 12px 0px; width: 70px;" alt="bongocat - Discord Emoji" jsname="kn3ccd">Hi i'm Alejandro Bast <img src="https://camo.githubusercontent.com/cd122cf1a24b8e8ccb81d65d3995ce9b80cc22d315c9409e09d80aad389006a3/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537393231363131312f373535302f70696b616368755f776176652e6769663f31353739323136313131" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></strong></h1> <!-- texto centrado -->
+  <h1><strong>
+    <img src="https://cdn3.emoji.gg/emojis/bongocat.gif" alt="BongoCat" style="max-width: 30px; margin: 0 5px; vertical-align: middle;">
+    Hi, I'm Alejandro Bast
+    <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" alt="Pikachu waving" style="max-width: 70px; margin: 0 10px; vertical-align: middle;">
+  </strong></h1>
 </div>
 
+<!-- Banner centrado -->
+<div align="center">
+  <img src="https://github.com/AlejandroBast/AlejandroBast/assets/161093543/2478cddd-5d2c-449e-b3ae-cabcab8889ea" alt="Banner" width="80%">
+</div>
 
-![Banner (1)](https://github.com/AlejandroBast/AlejandroBast/assets/161093543/2478cddd-5d2c-449e-b3ae-cabcab8889ea) <p  align="center"> <!-- Baner -->
-
-- 👀 I’m interested in IA
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on everything
-
-
-<!---
-AlejandroBast/AlejandroBast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Lista de intereses -->
+<div align="center">
+  <ul style="list-style-type: none;">
+    <li>👀 I’m interested in <strong>AI</strong></li>
+    <li>🌱 I’m currently learning <strong>new technologies</strong></li>
+    <li>💞️ I’m looking to collaborate on <strong>anything exciting!</strong></li>
+  </ul>
+</div>
