@@ -5,7 +5,7 @@
     <strong>Hi, I'm Alejandro Bast</strong>
     <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="50" style="vertical-align: middle;" />
   </h1>
-  <h3>☕ Coffee-powered coder | 🐱 Cat enthusiast | 🚀 Dreaming in Python</h3>
+  <h3>☕ Coffee-powered coder | 🐱 Cat enthusiast | 🚀 Dreaming in</h3>
 </div>
 
 <!-- Línea decorativa -->
